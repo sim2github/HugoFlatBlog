@@ -1,3 +1,18 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://simon.pp.ua/"
+title = "SimOn"
+copyright = "Copyright &copy; 2018 - Sergeyev Alexander"
+canonifyurls = true
+
+paginate = 10
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+  name = "Alexander Sergeyev"
+  homepage = "http://simon.pp.ua/"
+  github = "sim2github"
+
+[params]
+    tagline = "Мой персональный блог"

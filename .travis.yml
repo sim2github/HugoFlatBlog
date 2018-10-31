@@ -1,19 +1,26 @@
-language: python
-python:
-  - "3.6"
+dist: trusty
+sudo: false
+language: node_js
+node_js:
+  - "11"
+cache:
+  directories:
+    - .npm
+    - node_modules
 install:
-  # install latest release version
-  - curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "browser_download_url.*hugo_[^extended].*_Linux-64bit\.deb" | cut -d '"' -f 4 | wget -qi -
-  - sudo dpkg -i hugo*.deb
-  # - pip install Pygments
-  - rm -rf public 2 > /dev/null
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_0.50_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
+  - rm -rf public || exit 0
+before_script:
+  - npm install -g postcss-cli autoprefixer
 script:
-    - hugo
+    - hugo -v
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   verbose: true
+  local-dir: public
   keep-history: true
+  target_branch: master
   on:
-    branch: master
+    branch: dev
