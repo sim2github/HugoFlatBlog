@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>https://simon.pp.ua/new/</loc>
+  </url>
+  
+  <url>
     <loc>https://simon.pp.ua/posts/style-guide/</loc>
     <lastmod>2018-11-02T18:36:18+02:00</lastmod>
   </url>
@@ -52,13 +56,13 @@
   </url>
   
   <url>
-    <loc>https://simon.pp.ua/categories/development/</loc>
+    <loc>https://simon.pp.ua/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://simon.pp.ua/tags/development/</loc>
+    <loc>https://simon.pp.ua/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,13 +74,13 @@
   </url>
   
   <url>
-    <loc>https://simon.pp.ua/categories/golang/</loc>
+    <loc>https://simon.pp.ua/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://simon.pp.ua/tags/golang/</loc>
+    <loc>https://simon.pp.ua/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
