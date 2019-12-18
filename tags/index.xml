@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SimOn</title>
-    <link>https://simon.pp.ua/tags/</link>
+    <link>https://sim2github.github.io/tags/</link>
     <description>Recent content in Tags on SimOn</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2018 - Sergeyev Alexander</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://simon.pp.ua/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sim2github.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://simon.pp.ua/tags/development/</link>
+      <link>https://sim2github.github.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/development/</guid>
+      <guid>https://sim2github.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://simon.pp.ua/tags/go/</link>
+      <link>https://sim2github.github.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/go/</guid>
+      <guid>https://sim2github.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://simon.pp.ua/tags/golang/</link>
+      <link>https://sim2github.github.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/golang/</guid>
+      <guid>https://sim2github.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://simon.pp.ua/tags/hugo/</link>
+      <link>https://sim2github.github.io/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/hugo/</guid>
+      <guid>https://sim2github.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>https://simon.pp.ua/tags/templates/</link>
+      <link>https://sim2github.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/templates/</guid>
+      <guid>https://sim2github.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>https://simon.pp.ua/tags/themes/</link>
+      <link>https://sim2github.github.io/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simon.pp.ua/tags/themes/</guid>
+      <guid>https://sim2github.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
